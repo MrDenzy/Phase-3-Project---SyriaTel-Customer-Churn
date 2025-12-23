@@ -27,6 +27,12 @@ Phase-3-Project---SyriaTel-Customer-Churn/
 
 │   └── Top 10 Feature Importances
 
+├── presentation/
+
+│   └── Phase 3 Project Presentation .pdf
+
+│   └── Phase 3 Project Presentation .pptx
+
 ├── README.md
 
 
