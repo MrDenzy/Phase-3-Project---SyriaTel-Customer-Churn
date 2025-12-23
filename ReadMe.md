@@ -104,4 +104,8 @@ The project follows a standard machine learning workflow:
 
 **Conclusion**
 
-This project demonstrates how supervised machine learning classification can be applied to a real-world business problem. The final model provides actionable insights that SyriaTel can use to improve customer retention.
+This experiment showed how client loss may be predicted using supervised machine learning classification. 
+
+The `Decision Tree model` greatly enhanced churn detection performance, while `Logistic Regression` offered a helpful baseline. 
+
+To further enhance outcomes, future research can test more models or adjust model parameters.
