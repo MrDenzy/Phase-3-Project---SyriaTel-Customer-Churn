@@ -1,18 +1,33 @@
 **Phase-3-Project---SyriaTel-Customer-Churn/**
 
-Report Structure
+
+**Report Structure**
+
+
 |
+
 ├── data/
+
 │   └── Telecom.csv
+
 ├── notebook/
+
 │   └── index.ipynb
+
 ├── output/
+
 │   └── Customer Service Calls vs Churn
+
 │   └── Churn Distribution
+
 │   └── International Plan
+
 │   └── Total Day Minutes
+
 │   └── Top 10 Feature Importances
+
 ├── README.md
+
 
 
 
@@ -62,21 +77,21 @@ The project follows a standard machine learning workflow:
 
 **Results**
 
-Logistic Regression achieved good overall accuracy but performed poorly in identifying churned customers.
+1. Logistic Regression achieved good overall accuracy but performed poorly in identifying churned customers.
 
-The Decision Tree model significantly improved churn recall and achieved a higher ROC-AUC score.
+2. The Decision Tree model significantly improved churn recall and achieved a higher ROC-AUC score.
 
-Based on performance metrics, the Decision Tree was selected as the better model for this problem.
+3. Based on performance metrics, the Decision Tree was selected as the better model for this problem.
 
 
 
 **Business Recommendation**
 
-Customers with frequent customer service calls are more likely to churn.
+1. Customers with frequent customer service calls are more likely to churn.
 
-Usage-related features play an important role in churn prediction.
+2. Usage-related features play an important role in churn prediction.
 
-Improving customer support and targeting high-risk customers could help reduce churn.
+3. Improving customer support and targeting high-risk customers could help reduce churn.
 
 
 
