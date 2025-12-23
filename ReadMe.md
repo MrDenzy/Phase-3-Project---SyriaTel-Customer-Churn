@@ -1,8 +1,9 @@
-**Phase-3-Project---SyriaTel-Customer-Churn/**
+**SyriaTel Customer Churn Prediction**
 
 
 **Report Structure**
 
+Phase-3-Project---SyriaTel-Customer-Churn/
 
 |
 
